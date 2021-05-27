@@ -19,8 +19,8 @@
         <table class="articles">
             <thead>
                 <tr>
-                    <th> ID </th>
-                    <th> TEXTO </th>
+                    <th>ID</th>
+                    <th>TEXTO</th>
                 </tr>
             </thead>
             <?php
@@ -29,7 +29,7 @@
         </table>
         <section class="buttons">
             <?php
-                generateList($pages, $page);
+                generateList($pages, $page_number);
             ?>
         </section>
     </div>
