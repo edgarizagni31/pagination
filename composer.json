@@ -1,0 +1,14 @@
+{
+    "name": "edgar/paginacion",
+    "description": "paginación de articulos.",
+    "authors": [
+        {
+            "name": "edgar ochoa",
+            "email": "eom3108@gmail.com",
+            "homepage": "https://edgarizagni.netlify.app"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
